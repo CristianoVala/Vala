@@ -1,8 +1,8 @@
 .Title{
-  display:flex;
+  display: flex;
   justify-content: center;
-  align-items:center;
-  text-align:center;
+  align-items: center;
+  text-align: center;
   flex-direction: column;
 }
 .Title h1{
@@ -11,10 +11,10 @@
   padding: 1rem;
 }
 .Button_Container{
-  display:flex;
+  display: flex;
   justify-content: center;
-  align-items:center;
-  text-align:center;
+  align-items: center;
+  text-align: center;
   flex-direction: row;
 }
 .Button{
