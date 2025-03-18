@@ -19,36 +19,36 @@
     gap: 2rem;
 }
 .Button{
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
     color: white;
     background: black;
     font-size: 1rem;
     border-radius: 2rem;
-    border: solid black 2px;
+    border: solid black 4px;
     transition: ease 0.5s;
 }
 .Button:hover{
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
     color: black;
     background: white;
     font-size: 1.2rem;
     border-radius: 2rem;
-    border: solid black 2px;
+    border: solid black 4px;
 }
 .Button1{
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
     color: black;
     background: white;
     font-size: 1rem;
     border-radius: 2rem;
-    border: solid black 2px;
+    border: solid black 4px;
     transition: ease 0.5s;
 }
 .Button1:hover{
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
     color: white;
     background: black;
     font-size: 1.2rem;
     border-radius: 2rem;
-    border: solid black 2px;
+    border: solid black 4px;
 }
