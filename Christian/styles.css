@@ -21,15 +21,15 @@
 .Button{
   background: black;
   color: white;
-  font-size: 0.7rem;
-  border-radius: 1.5rem;
+  font-size: 1rem;
+  border-radius: 4px;
   padding: 1rem 2rem;
 }
 .Button1{
   background: white;
   color: black;
-  font-size: 0.7rem;
-  border-radius: 1.5rem;
-  border: solid, black, 2px;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: solid black 2px;
   padding: 1rem 2rem;
 }
