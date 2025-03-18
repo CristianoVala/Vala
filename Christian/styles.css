@@ -1,22 +1,22 @@
 .Title{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
 }
 .Title h1{
-  color: black;
-  font-size: 1rem;
-  padding: 1rem;
+    color: black;
+    font-size: 1rem;
+    padding: 1rem;
 }
 .Button_Container{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  flex-direction: row;
-  gap: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    gap: 2rem;
 }
 .Button{
     padding: 1rem 2rem;
@@ -24,12 +24,29 @@
     background: black;
     font-size: 1rem;
     border-radius: 2rem;
+    border: solid black 2px;
+}
+.Button:hover{
+    padding: 1rem 2rem;
+    color: black;
+    background: white;
+    font-size: 1.2rem;
+    border-radius: 2rem;
+    border: solid black 2px;
 }
 .Button1{
     padding: 1rem 2rem;
     color: black;
     background: white;
     font-size: 1rem;
+    border-radius: 2rem;
+    border: solid black 2px;
+}
+.Button1:hover{
+    padding: 1rem 2rem;
+    color: white;
+    background: black;
+    font-size: 1.2rem;
     border-radius: 2rem;
     border: solid black 2px;
 }
