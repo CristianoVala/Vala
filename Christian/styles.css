@@ -16,12 +16,14 @@
   align-items: center;
   text-align: center;
   flex-direction: row;
+  gap: 2rem;
 }
 .Button{
   background: black;
   color: white;
   font-size: 0.7rem;
   border-radius: 1.5rem;
+  padding: 1rem 2rem;
 }
 .Button1{
   background: white;
@@ -29,4 +31,5 @@
   font-size: 0.7rem;
   border-radius: 1.5rem;
   border: solid, black, 2px;
+  padding: 1rem 2rem;
 }
