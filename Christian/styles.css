@@ -1,5 +1,32 @@
 .Title{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  text-align:center;
+  flex-direction: column;
+}
+.Title h1{
   color: black;
-  font-size: 1.5rem;
+  font-size: 1rem;
   padding: 1rem;
+}
+.Button_Container{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  text-align:center;
+  flex-direction: row;
+}
+.Button{
+  background: black;
+  color: white;
+  font-size: 0.7rem;
+  border-radius: 1.5rem;
+}
+.Button1{
+  background: white;
+  color: black;
+  font-size: 0.7rem;
+  border-radius: 1.5rem;
+  border: solid, black, 2px;
 }
