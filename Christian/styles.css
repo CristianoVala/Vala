@@ -41,7 +41,7 @@
     background: white;
     font-size: 1rem;
     border-radius: 2rem;
-    border: solid black 4px;
+    border: solid black 2px;
     transition: ease 0.5s;
 }
 .Button1:hover{
@@ -50,5 +50,5 @@
     background: black;
     font-size: 1.2rem;
     border-radius: 2rem;
-    border: solid black 4px;
+    border: solid black 2px;
 }
