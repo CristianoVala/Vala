@@ -25,7 +25,7 @@
     font-size: 1rem;
     border-radius: 2rem;
     border: solid black 2px;
-    transition: ease 2s;
+    transition: ease 0.5s;
 }
 .Button:hover{
     padding: 1rem 2rem;
@@ -42,7 +42,7 @@
     font-size: 1rem;
     border-radius: 2rem;
     border: solid black 2px;
-    transition: ease 2s;
+    transition: ease 0.5s;
 }
 .Button1:hover{
     padding: 1rem 2rem;
