@@ -10,7 +10,7 @@
     height: 50vw;
     border-radius: 100%;
     border: solid black 2px;
-    clip-path: circle(50%);
+    clip-path: ellipse(50% 35%);
 }
 .Title{
     display: flex;
