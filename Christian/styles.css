@@ -8,7 +8,7 @@
     width: 30vw;
     height: 30vw;
     border-radius: 100%;
-    border: solid, black, 2px;
+    border: solid black 2px;
 }
 .Title{
     display: flex;
@@ -46,7 +46,7 @@
     background: white;
     font-size: 1.2rem;
     border-radius: 2rem;
-    border: solid black 4px;
+    border: solid black 2.5px;
     text-decoration: none;
 }
 .Button1{
