@@ -1,3 +1,15 @@
+.Hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.Headshot{
+    width: 30vw;
+    height: 30vw;
+    border-radius: 100%;
+    border: solid, black, 2px;
+}
 .Title{
     display: flex;
     justify-content: center;
